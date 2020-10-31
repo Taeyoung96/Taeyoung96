@@ -9,9 +9,9 @@
 
 #### 🌱 I am currently studying at Kwangwoon University School of Robotics.
 #### :orange_book: Reasearch Interest :
-> 🔸 Computer Vision  
-> 🔸 Deep Learning  
-> 🔸 Autonomous driving
+> 🔸 **Computer Vision**  
+> 🔸 **Deep Learning**  
+> 🔸 **Autonomous driving**
 
 
 
