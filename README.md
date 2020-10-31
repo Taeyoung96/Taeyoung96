@@ -6,9 +6,23 @@
 
 </div>
 
+
+#### 🌱 I am currently studying at Kwangwoon University School of Robotics.
+#### :orange_book: Reasearch Interest :
+> 🔸 Computer Vision  
+> 🔸 Deep Learning  
+> 🔸 Autonomous driving
+
+
+
+
+
+<div align=right>
+  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Taeyoung96)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌱 I am currently studying at Kwangwoon University School of Robotics.
+</div>
+
 
 
 <!--
