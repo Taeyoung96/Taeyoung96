@@ -9,9 +9,8 @@
 
 #### 🌱 I am currently studying at Kwangwoon University School of Robotics.
 #### :orange_book: Reasearch Interest :
-> 🔸 **Computer Vision**  
-> 🔸 **Deep Learning**  
-> 🔸 **Autonomous driving**
+> 🔸 **Computer Vision** - Object Detection, Segmentation, Depth estimation  
+> 🔸 **Sensor Funsion** - Combination of camera, lidar and radar
 
 
 #### 👀 Who wants to know more about me, click it!
