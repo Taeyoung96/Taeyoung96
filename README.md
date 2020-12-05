@@ -14,7 +14,15 @@
 > 🔸 **Autonomous driving**
 
 
+#### 👀 Who wants to know more about me, click it!
 
+<div align=center>
+  
+[![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/Taeyoung96/TaeyoungKim_CV/blob/master/TaeyoungKim_CV.pdf)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/harim.kang)](https://www.facebook.com/profile.php?id=100015469002427)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://taeyoung96.github.io/)
+
+</div>
 
 
 <div align=center>
