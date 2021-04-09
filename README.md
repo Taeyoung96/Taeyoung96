@@ -2,7 +2,7 @@
 
 ### 🌱 I am currently studying at Kwangwoon University School of Robotics.
 ### :orange_book: Reasearch Interest :
-> 🔸 **Computer Vision** - Object Detection, Segmentation, Depth estimation  
+> 🔸 **Computer Vision** - Object Detection, Segmentation, Depth estimation, 3D reconstruction    
 > 🔸 **Sensor Funsion** - Combination of camera, lidar and radar  
 > 🔸 **SLAM** - Visual SLAM, Visual odometry  
 
