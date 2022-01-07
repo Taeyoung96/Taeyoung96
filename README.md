@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-### 🌱 I am currently studying at Kwangwoon University School of Robotics.
-### :orange_book: Reasearch Interest :
+### 🌱 Education  
+> 🔹**M.S in Vehicle Convergence Engineering** from Yonsei University, Seoul, South Korea (2022.3 ~ Current)  
+> 🔹**B.S in Robotics** from Kwangwoon University, Seoul, South Korea (2016.3 ~ 2022.2)  
+
+### :orange_book: Reasearch Interest 
 > 🔸 **Computer Vision** - Object Detection, Segmentation, Depth estimation, 3D reconstruction    
 > 🔸 **Sensor Funsion** - Combination of camera and lidar  
 > 🔸 **SLAM** - Visual SLAM, Visual odometry  
