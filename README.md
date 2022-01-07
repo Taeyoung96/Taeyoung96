@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, This is Taeyoung96 👋
 
 ### 🌱 Education  
 > 🔹**M.S in Vehicle Convergence Engineering** from Yonsei University, Seoul, South Korea (2022.3 ~ Current)  
