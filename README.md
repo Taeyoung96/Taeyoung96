@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)
-
 ## Hi, This is Taeyoung96 👋
 
 ### 🌱 Education  
