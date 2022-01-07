@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)
-## Hi, This is Taeyoung96 👋
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)  
+### Hi, This is Taeyoung96 👋
 
 ### 🌱 Education  
 > 🔹**M.S in Vehicle Convergence Engineering** from Yonsei University, Seoul, South Korea (2022.3 ~ Current)  
