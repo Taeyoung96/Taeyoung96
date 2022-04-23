@@ -7,9 +7,9 @@
 > 🔹 **B.S in Robotics** from Kwangwoon University, Seoul, South Korea (2016.3 ~ 2022.2)  
 
 ### :orange_book: Reasearch Interest 
-> 🔸 **Computer Vision** - Object Detection, Segmentation, Depth estimation, 3D reconstruction    
+> 🔸 **Computer Vision** - Object Detection, Segmentation, Depth estimation, 3D reconstruction   
 > 🔸 **Sensor Funsion** - Combination of camera, lidar, or IMU sensor.  
-> 🔸 **SLAM** - Visual SLAM, Visual-Inertial SLAM, Visual odometry  
+> 🔸 **SLAM** - Lidar SLAM, Lidar-inertial odometry   
 
 
 ### 👀 Who wants to know more about me, click it!
