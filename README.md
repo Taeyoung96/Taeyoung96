@@ -6,10 +6,11 @@
 > 🔹 **M.S in Vehicle Convergence Engineering** at [**CILAB**](https://cilab.yonsei.ac.kr/) from Yonsei University, Seoul, South Korea (2022.3 ~ Current)  
 > 🔹 **B.S in Robotics** from Kwangwoon University, Seoul, South Korea (2016.3 ~ 2022.2)  
 
-### :orange_book: Reasearch Interest 
+### :orange_book: Reasearch Interest  
+> 🔸 **SLAM** - Lidar SLAM, Lidar-inertial odometry, Visual SLAM, Visual-inertial odometry   
+> 🔸 **Sensor Funsion** - Combination of camera, LiDAR, or IMU sensor.  
 > 🔸 **Computer Vision** - Object Detection, Segmentation, Depth estimation, 3D reconstruction   
-> 🔸 **Sensor Funsion** - Combination of camera, lidar, or IMU sensor.  
-> 🔸 **SLAM** - Visual SLAM, Visual-inertial odometry, Lidar SLAM, Lidar-inertial odometry     
+
 
 
 ### 👀 Who wants to know more about me, click it!
