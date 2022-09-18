@@ -9,7 +9,7 @@
 ### :orange_book: Reasearch Interest  
 > 🔸 **SLAM** - Lidar SLAM, Lidar-inertial odometry, Visual SLAM, Visual-inertial odometry   
 > 🔸 **Sensor Funsion** - Combination of camera, LiDAR, or IMU sensor.  
-> 🔸 **Computer Vision** - Object Detection, Segmentation, Depth estimation, 3D reconstruction   
+> 🔸 **Computer Vision** - Object Detection, Segmentation, Depth estimation, 3D reconstruction, Neural rendering   
 
 
 
