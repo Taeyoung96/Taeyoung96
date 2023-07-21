@@ -37,9 +37,11 @@
 
 <div align=center>
   
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Taeyoung96)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Taeyoung96&count_private=true
+)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
 
