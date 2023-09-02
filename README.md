@@ -3,7 +3,7 @@
 ### Hi, This is @Taeyoung96! 👋
 
 ### 🌱 Education  
-> 🔹 **M.S in Mobility System Engineering** at [**CILAB**](https://cilab.yonsei.ac.kr/) from Yonsei University, Seoul, South Korea (2022.3 ~ Current)  
+> 🔹 **M.S in Vehicle Convergence Engineering** at [**CILAB**](https://cilab.yonsei.ac.kr/) from Yonsei University, Seoul, South Korea (2022.3 ~ Current)  
 > 🔹 **B.S in Robotics** from Kwangwoon University, Seoul, South Korea (2016.3 ~ 2022.2)  
 
 ### :orange_book: Reasearch Interest  
