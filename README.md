@@ -40,7 +40,7 @@
 
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeyoung96&hide=contribs,prs)
+![TaeYoung's GitHub stats](https://github-readme-stats-vercel-tyoung960302-8641s-projects.vercel.app/api?username=Taeyoung96&hide=contribs,prs)
   
 </div>
 
