@@ -7,19 +7,16 @@
 > 🔵 **B.S in Robotics** from Kwangwoon University, Seoul, South Korea (2016.3 ~ 2022.2)  
 
 ### :orange_book: Reasearch Interest  
-> 🟠 **SLAM** - Lidar SLAM, Lidar-inertial odometry, Visual SLAM, Visual-inertial odometry   
-> 🟠 **Sensor Funsion** - Combination of camera, LiDAR, or IMU sensor.  
-> 🟠 **Computer Vision** - Object Detection, Segmentation, Depth estimation, 3D reconstruction, Neural rendering   
+> 🟠 **Spatial AI** - Sensor Fusion (Camera & LiDAR & IMU), LiDAR/Visual/Inertial SLAM, Scene Graph, 3D Reconstruction, Neural Rendering, End-to-End Autonomous driving (VLA)  
+> ⚙️  **AI Systems Engineering** - AI Orchestration, Tool Harness Design, Agentic Pipeline Architecture
 
 ### 🚀 Careers
-
 > ⚫ **Research Engineer** at Hyundai Motor Group, [**Robotics Lab**](https://robotics.hyundai.com/en/) (2024.2 ~ Current)  
 > ⚫ **Student Intern** at KIST (Korea Institute of Science and Technology), [**Robot Vision Lab**](https://kistrobot.vision/) (2020.9 ~ 2021.2)  
 
 ### 👀 Who wants to know more about me, click it!
 
 <div align=center>
-
 
 
 [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/Taeyoung96/TaeyoungKim_CV/blob/master/TaeyoungKim_CV.pdf)
@@ -40,7 +37,8 @@
 
 <div align=center>
 
-![TaeYoung's GitHub stats](https://github-readme-stats-vercel-o4edzl4yg.vercel.app/api?username=Taeyoung96&show_icons=true&theme=radical)
+ ![TaeYoung's GitHub stats](https://github-readme-stats-vercel-o4edzl4yg.vercel.app/api?username=Taeyoung96&show_icons=true&theme=radical&v=2)
+
   
 </div>
 
