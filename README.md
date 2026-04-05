@@ -37,7 +37,7 @@
 
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats-vercel-o4edzl4yg.vercel.app/api?username=Taeyoung96&show_icons=true&v=2)
+![Anurag's GitHub stats](https://github-readme-stats-teal-beta-85.vercel.app/api?username=Taeyoung96&show_icons=true)
 
   
 </div>
