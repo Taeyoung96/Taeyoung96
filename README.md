@@ -37,7 +37,7 @@
 
 <div align=center>
 
-![TaeYoung's GitHub stats](https://github-readme-stats-vercel-o4edzl4yg.vercel.app/api?username=Taeyoung96&show_icons=true&theme=radical&v=3)
+![Anurag's GitHub stats](https://github-readme-stats-vercel-o4edzl4yg.vercel.app/api?username=Taeyoung96&show_icons=true)
 
   
 </div>
